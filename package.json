@@ -11,5 +11,18 @@
   "dependencies": {
     "dat.gui": "^0.7.7",
     "gsap": "^3.6.1"
-  }
+  },
+  "name": "portfolio",
+  "description": "rgb(39, 173, 128)\r blk-rgba(0, 0, 0, 0.753);",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loop77777/myportfolio.git"
+  },
+  "author": "Mr.deep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loop77777/myportfolio/issues"
+  },
+  "homepage": "https://github.com/loop77777/myportfolio#readme"
 }
